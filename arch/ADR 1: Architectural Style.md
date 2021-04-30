@@ -61,7 +61,10 @@ Os desenvolvedores possuem experiência com linguagens como **nodeJs**, **typesc
 
 ---
 
-- Proposto
+- [ ] Proposto
+- [x] Aceito
+- [ ] Depreciado
+- [ ] Substituido
 
 ## **Consequências**
 
