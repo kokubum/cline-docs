@@ -1,4 +1,4 @@
-# ADR 2: Padrões de Projeto
+# ADR 4: Táticas do Projeto
 
 - **ASSUNTO:** Racionalização sobre as táticas que devem ser utilizadas.
 - **DATA:** 01/05/2021
