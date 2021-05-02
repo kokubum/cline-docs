@@ -1,4 +1,4 @@
-# ERD - Visão de Módulos/Data
+# ERD - Visão de Módulos/Dados
 
 - **ASSUNTO:** Demonstração do diagrama de relacionamento das entidades **(Database Model)**
 - **DATA:** 02/05/2021
