@@ -9,4 +9,4 @@
 
 ---
 
-Utilizamos da visão de módulos/uso devido a necessidade de entendimento em relação a dependência dos módulos e como eles se relacionam entre si, facilitando assim a implementação com uma redução de erros e da necessidade de um tamanho muito grande de refatorações futuras.
+Utilizamos da visão de módulos/uso devido a necessidade de entendimento em relação a dependência dos módulos e como eles se relacionam entre si, facilitando assim uma implementação visando baixa quantidade de erros e e baixa taxa de futuras refatorações.
